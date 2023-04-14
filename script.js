@@ -1,3 +1,2 @@
-console.log("Hello World!");
-let firstName = "Lindsey";
-console.log("Hello " + firstName);
+let income = 40000;
+console.log(income);
